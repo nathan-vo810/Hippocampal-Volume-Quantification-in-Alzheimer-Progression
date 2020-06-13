@@ -218,11 +218,6 @@ Some big cloud providers are eyeing the space closely, and running their own pro
 * Microsoft Research has a [project dubbed InnerEye](https://www.microsoft.com/en-us/research/project/medical-image-analysis/) that for the past 10+ years has been exploring the use of machine learning for a variety of medical imaging applications. One of the instructors of this course had the honor of spending a significant part of his career as a team member here.
 * Google DeepMind is a group within Google doing some cutting-edge AI research, including [some work on medical imaging](https://deepmind.com/blog/article/ai-uclh-radiotherapy-planning). We can credit them with the contribution to the invention of the U-net which has been prominently featured in this course.
 
-## Setting up local environment
-
-TODO: Instructions for how to get a copy of the project running on your local machine.  
-TODO: Instructions for setting up the environment from Sect3
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md]()
