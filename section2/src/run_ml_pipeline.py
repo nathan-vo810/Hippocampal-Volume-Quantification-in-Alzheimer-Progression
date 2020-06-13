@@ -14,12 +14,12 @@ class Config:
     """
     def __init__(self):
         self.name = "Basic_unet"
-        self.root_dir = r"../data"
+        self.root_dir = r"../../section1/out"
         self.n_epochs = 10
         self.learning_rate = 0.0002
         self.batch_size = 8
         self.patch_size = 64
-        self.test_results_dir = "../out"
+        self.test_results_dir = "../"
 
 if __name__ == "__main__":
     # Get configuration
